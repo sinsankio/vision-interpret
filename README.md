@@ -13,7 +13,7 @@ This makes it simple to inspect **where a model is looking** when it makes a pre
 
 ---
 
-## Example: Original image vs. Attention Mask of the image
+## Example: Original image vs. Attention Map of the image
 
 - **Original image** – plain visual input:
 
